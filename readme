@@ -1,1 +1,3 @@
-Nothing is in the folder as of yet check back on the 6th which is the deadline stated on elearning
+So as to not waste your time, essentially the same as assignment 2, but added a Route file as well as two DataMapper files and a Registry.
+Attemted to do some of the requirements for assignment 2 but could figure out this method of web programming honestly, its just really confusing and i dont know whats for what
+Cant go past the index page since the requesthandlerfactory is responsible im assuming for allowing user to traverse multiple pages and i cant get it to go past the index without manual intervention.
